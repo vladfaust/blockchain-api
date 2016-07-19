@@ -1,7 +1,7 @@
 # Blockchain::Api
 
 Another Blockchain.info API wrapper. Currently supports these endpoints:
-```ruby
+```
 https://blockchain.info/ticker
 https://api.blockchain.info/v2/receive
 https://api.blockchain.info/v2/receive/checkgap
