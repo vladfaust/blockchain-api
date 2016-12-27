@@ -26,7 +26,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-require 'blockchain-api'
+require 'blockchain/api'
 
 client = Blockchain::API::V1::Client.new
 client_v2 = Blockchain::API::V2::Client.new(key: ENV['BLOCKCHAIN_API_KEY'], xpub: ENV['BLOCKCHAIN_XPUB'])
